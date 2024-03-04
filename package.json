@@ -1,0 +1,30 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "This Is my yard.",
+  "main": "app.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "builder": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/Abhishek00003/R1"
+  },
+  "keywords": [
+    "akki",
+    "R1",
+    "etc"
+  ],
+  "author": "abhi vargrash",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
